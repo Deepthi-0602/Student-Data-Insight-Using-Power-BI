@@ -7,7 +7,7 @@ The project is to leverage Power BI to create an interactive dashboard that prov
 ## Contents
 
 - **Student Data.xlsx**: The raw dataset containing student information.(https://github.com/Deepthi-0602/Student-Data-Insight-Using-Power-BI/blob/main/Student%20Data.xlsx)
-- **Power BI Dashboard (.pbix)**: An interactive visualization built using Power BI Desktop.
+- **Power BI Dashboard (.pbix)**: An interactive visualization built using Power BI Desktop.(https://github.com/Deepthi-0602/Student-Data-Insight-Using-Power-BI/blob/main/Student%20Data%20Insights%20using%20Power%20BI%20(Interactice%20Dashboard).pbix)
 
 ## Features
 

@@ -12,9 +12,12 @@ The project is to leverage Power BI to create an interactive dashboard that prov
 ## Features
 
 - Enrollment trends
-- Performance analysis
 - Demographic insights
 - Custom filtering and slicing
+- Student performance analysis
+- Attendance tracking
+- Grade distribution
+- Interactive filters and drill-through pages
 
 ## Getting Started
 
